@@ -1,5 +1,7 @@
 # Surface Field Driven Strongly Hex-Dominant Meshing
 
+<p align="center"><img src="LoopyCuts.jpg" width="700"></p>
+
 This repository contains the meshing software developed as part of the publication
 
 **LoopyCuts: Practical Feature-Preserving Block Decomposition for Strongly Hex-Dominant Meshing**<br>
@@ -20,10 +22,21 @@ This part reads the loop data generated at the previous step, and outputs a hex-
 qmake .
 make -j4
 ```
-
-### Usage
 The program can be used either with a GUI, or by command line (useful to batch run entire datasets of models).
 ```
 ./volumetric_cutter <mesh> <loops> [ -batch-mode <output_folder> ]
+```
+
+## Acknowldegment
+If you use LoopyCuts, please consider citing the associated scientific paper using the following 
+BibTeX entry:
+
+```bibtex
+@article{LoopyCuts2020,
+  title   = {LoopyCuts: Practical Feature-Preserving Block Decomposition for Strongly Hex-Dominant Meshing},
+  author  = {Livesu, Marco and Pietroni, Nico and Puppo, Enrico and Sheffer, Alla and Cignoni, Paolo},
+  journal = {ACM Transactions on Graphics},
+  year    = {2020},
+  doi     = {(to appear)}}
 ```
 
