@@ -17,7 +17,7 @@ ACM Transactions on Graphics (SIGGRAPH 2020)
 NICO TODO
 
 ## Step 2: Cutting and Hex-dominant meshing
-This part reads the loop data generated at the previous step, and outputs a hex-dominant mesh. The software depends on [Qt](https://www.qt.io/download) for the GUI, [Cinolib](https://github.com/mlivesu/cinolib) for geometry processing, and [Tetgen](http://wias-berlin.de/software/tetgen/) for tetrahedralization. All dependencies must be installed beforehand, and properly referred to in the project file `volumetric_cutter/volumetric_cutter.pro`. One configured, compiling the project should as easy as opening a terminal in the same folder and typing
+This part reads the loop data generated at the previous step, and outputs a hex-dominant mesh. The software depends on [Qt](https://www.qt.io/download) for the GUI, [CinoLib](https://github.com/mlivesu/cinolib) for geometry processing, and [Tetgen](http://wias-berlin.de/software/tetgen/) for tetrahedralization. All dependencies must be installed beforehand, and properly referred to in the project file `volumetric_cutter/volumetric_cutter.pro`. One configured, compiling the project should as easy as opening a terminal in the same folder and typing
 ```
 qmake .
 make -j4
@@ -28,20 +28,20 @@ The program can be used either with a GUI, or by command line (useful to batch r
 ```
 
 ## Output Format
-Although almost entirely composed of hexahedra, our output meshes may contain arbitrary polyhedra which cannot be ecnoded in popular volumetric mesh formats such as `.mesh` and `.vtk`. All our outputs are therefore encoded using the CinoLib `.hedra` format, which is structured as follows
+Although almost entirely composed of hexahedra, our output meshes may contain arbitrary polyhedra which cannot be ecnoded in popular volumetric mesh formats such as `.mesh` and `.vtk`. All our outputs are therefore encoded using the [CinoLib](https://github.com/mlivesu/cinolib) `.hedra` format, which is structured as follows
 ```
-nv nf np               // number of vertices, faces and polyhedra, respectively
-x0 y0 z0               // xyz coordinates of the 1st point 
-x1 y1 z1               // xyz coordinates of the 2nd point
-...                    // ...
-f0 v1 v2 ... vf1       // f1: number of vertices of the 1st face, followed by the (CCW ordered) list of vertices
-f1 v1 v2 ... vf2       // f2: number of vertices of the 2nd face, followed by the (CCW ordered) list of vertices
-...                    //
-p1 f1 -f2 ...  fp1     // p1: nuber of faces of the 1st polyhedron, followed by the list of faces
-p2 -f1 f2 ... -fp2     // p2: nuber of faces of the 2nd polyhedron, followed by the list of faces
-...                    // (references with negative numbers (e.g. -f) denote that face |f| is seen CW by the current poly)
+nv nf np             // number of vertices, faces and polyhedra, respectively
+x0 y0 z0             // xyz coordinates of the 1st point 
+x1 y1 z1             // xyz coordinates of the 2nd point
+...                  // 
+f0 v1 v2 ... vf1     // f1: number of vertices of the 1st face, followed by the (CCW ordered) list of vertices
+f1 v1 v2 ... vf2     // f2: number of vertices of the 2nd face, followed by the (CCW ordered) list of vertices
+...                  //
+p1  f1 -f2 ...  fp1  // p1: nuber of faces of the 1st polyhedron, followed by the list of faces
+p2 -f1  f2 ... -fp2  // p2: nuber of faces of the 2nd polyhedron, followed by the list of faces
+...                  // (references with negative numbers (e.g. -f) denote that face |f| is seen CW by the current poly)
 ```
-In case the output is a full hexahedral mesh, also a `.mesh` file will be produced. Such a file can be visually inspected directly on browser connecting to [HexaLab](https://www.hexalab.net).
+These meshes can be visualized using [CinoLib](https://github.com/mlivesu/cinolib) (see e.g. example [#06](https://github.com/mlivesu/cinolib/tree/master/examples/06_base_app_polyhedralmesh)). In case the output is a full hexahedral mesh, also a `.mesh` file will be produced. Such a file can be visually inspected directly on browser connecting to [HexaLab](https://www.hexalab.net).
 
 ## Acknowldegment
 If you use LoopyCuts, please consider citing the associated scientific paper using the following 
