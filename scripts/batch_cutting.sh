@@ -1,6 +1,6 @@
 #!/bin/bash
 
-EXE=../build-Desktop-Release/volumetric_cutter
+EXE=
 
 for D in `find . -type d`
 do
@@ -13,5 +13,5 @@ do
    echo Loop set $LOOP
    echo ------------------------------------
    echo 
-   $EXE $OBJ $LOOP -batch-mode $D > $D/out_log.txt   
+   $EXE $OBJ $LOOP -batch-mode $D > $D/log.txt   
 done
