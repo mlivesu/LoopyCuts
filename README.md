@@ -17,7 +17,7 @@ ACM Transactions on Graphics (SIGGRAPH 2020)
 NICO TODO
 
 ## Step 2: Cutting and Hex-dominant meshing
-This part reads the loop data generated at the previous step, and outputs a hex-dominant mesh. The software depends on [Qt](https://www.qt.io/download) for the GUI, [CinoLib](https://github.com/mlivesu/cinolib) for geometry processing, and [Tetgen](http://wias-berlin.de/software/tetgen/) for tetrahedralization. All dependencies must be installed beforehand, and properly referred to in the project file `volumetric_cutter/volumetric_cutter.pro`. One configured, compiling the project should as easy as opening a terminal in the same folder and typing
+This part reads the loop data generated at the previous step, and outputs a hex-dominant mesh. The software depends on [Qt](https://www.qt.io/download) for the GUI, [CinoLib](https://github.com/mlivesu/cinolib) for geometry processing, and [Tetgen](http://wias-berlin.de/software/tetgen/) for tetrahedralization. All dependencies must be installed beforehand, and properly referred to in the project file `volumetric_cutter/volumetric_cutter.pro`. Once configured, compiling the project should as easy as opening a terminal in the same folder and typing
 ```
 qmake .
 make -j4
@@ -28,7 +28,7 @@ The program can be used either with a GUI, or by command line (useful to batch r
 ```
 
 ## Batch processing
-The `scripts` folder contains useful batch scripts for processing large collections of shapes. 
+The `scripts` folder contains useful bash scripts for processing large collections of shapes. 
 
 ## Output Format
 Although almost entirely composed of hexahedra, our output meshes may contain arbitrary polyhedra which cannot be ecnoded in popular volumetric mesh formats such as `.mesh` and `.vtk`. All our outputs are therefore encoded using the [CinoLib](https://github.com/mlivesu/cinolib) `.hedra` format, which is structured as follows
