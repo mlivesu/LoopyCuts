@@ -56,6 +56,6 @@ BibTeX entry:
   author  = {Livesu, Marco and Pietroni, Nico and Puppo, Enrico and Sheffer, Alla and Cignoni, Paolo},
   journal = {ACM Transactions on Graphics},
   year    = {2020},
-  doi     = {(to appear)}}
+  doi     = {(10.1145/3386569.3392472)}}
 ```
 
