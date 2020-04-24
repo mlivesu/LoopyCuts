@@ -27,6 +27,9 @@ The program can be used either with a GUI, or by command line (useful to batch r
 ./volumetric_cutter <mesh> <loops> [ -batch-mode <output_folder> ]
 ```
 
+## Batch processing
+The `scripts` folder contains useful batch scripts for processing large collections of shapes. 
+
 ## Output Format
 Although almost entirely composed of hexahedra, our output meshes may contain arbitrary polyhedra which cannot be ecnoded in popular volumetric mesh formats such as `.mesh` and `.vtk`. All our outputs are therefore encoded using the [CinoLib](https://github.com/mlivesu/cinolib) `.hedra` format, which is structured as follows
 ```
