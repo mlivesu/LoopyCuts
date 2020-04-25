@@ -10,8 +10,8 @@ This repository contains the meshing software developed as part of the publicati
 [Enrico Puppo](https://www.disi.unige.it/person/PuppoE/), 
 [Alla Sheffer](http://www.cs.ubc.ca/%7Esheffa/), 
 [Paolo Cignoni](http://vcg.isti.cnr.it/~cignoni/)<br>
-ACM Transactions on Graphics (SIGGRAPH 2020)
-
+ACM Transactions on Graphics (SIGGRAPH 2020)<br>
+[PDF](http://pers.ge.imati.cnr.it/livesu/papers/LPPSC20/LPPSC20.pdf)
 
 ## Step 1: Generation of cutting loops
 NICO TODO
