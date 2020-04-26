@@ -19,9 +19,9 @@ To install LoopyCuts on your machine clone this repo in recursive mode with
 git clone --recursive https://github.com/mlivesu/cinolib.git
 ```
 The software has a number of external dependencies, some of which must be downloaded and installed in your system separately
-* [Qt](https://www.qt.io/download) - download and install it
-* [CinoLib](https://github.com/mlivesu/cinolib) - already included in the project as a submodule, no action required)
-* [Tetgen](http://wias-berlin.de/software/tetgen/) - install it on your machine and verify that references in `volumetric_cutter/volumetric_cutter.pro` are correct
+* [Qt](https://www.qt.io/download): download and install it
+* [Tetgen](http://wias-berlin.de/software/tetgen/): install it on your machine and verify that references in `volumetric_cutter/volumetric_cutter.pro` are correct
+* [CinoLib](https://github.com/mlivesu/cinolib): already included in the project as a submodule, no action required
 * nico? ....
 
 ## Step 1: Generation of cutting loops
