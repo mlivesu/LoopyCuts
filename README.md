@@ -17,18 +17,16 @@ ACM Transactions on Graphics (SIGGRAPH 2020)<br>
 NICO TODO
 
 ## Step 2: Cutting and Hex-dominant meshing
-This part reads the refined mesh and loops generated at the previous step, and outputs a hex-dominant mesh. The software depends on [Qt](https://www.qt.io/download) for the GUI, [CinoLib](https://github.com/mlivesu/cinolib) for geometry processing, and [Tetgen](http://wias-berlin.de/software/tetgen/) for tetrahedralization. All dependencies must be installed beforehand, and properly referred to in the project file `volumetric_cutter/volumetric_cutter.pro`. Once configured, compiling the project should as easy as opening a terminal in the same folder and typing
+This part reads the refined mesh and loops generated at the previous step, and outputs a hex-dominant mesh. The software depends on [Qt](https://www.qt.io/download) for the GUI, [CinoLib](https://github.com/mlivesu/cinolib) for geometry processing, and [Tetgen](http://wias-berlin.de/software/tetgen/) for tetrahedralization. All dependencies must be prepared beforehand, and properly referred to in the project file `volumetric_cutter/volumetric_cutter.pro`. Once configured, compiling the project should as easy as opening a terminal in the same folder and typing
 ```
 qmake .
 make -j4
 ```
-The program can be used either with a GUI, or by command line (useful to batch run entire datasets of models).
+The program can be used either with a GUI, or by command line (useful to batch run entire datasets of models). 
 ```
 ./volumetric_cutter <mesh> <loops> [ -batch-mode <output_folder> ]
 ```
-
-## Batch processing
-The `scripts` folder contains useful bash scripts for processing large collections of shapes. 
+We recommend using the command line version, because it is much faster. The `scripts` folder contains a useful bash script for processing large collections of shapes with a single call.
 
 ## Output Format
 Although almost entirely composed of hexahedra, our output meshes may contain arbitrary polyhedra which cannot be ecnoded in popular volumetric mesh formats such as `.mesh` and `.vtk`. All our outputs are therefore encoded using the `.hedra` format, which is structured as follows
