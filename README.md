@@ -17,7 +17,7 @@ ACM Transactions on Graphics (SIGGRAPH 2020)<br>
 NICO TODO
 
 ## Step 2: Cutting and Hex-dominant meshing
-This part reads the refined mesh and loops generated at the previous step, and outputs a hex-dominant mesh. The software depends on [Qt](https://www.qt.io/download) for the GUI, [CinoLib](https://github.com/mlivesu/cinolib) for geometry processing, and [Tetgen](http://wias-berlin.de/software/tetgen/) for tetrahedralization. All dependencies must be prepared beforehand, and properly referred to in the project file `volumetric_cutter/volumetric_cutter.pro`. Once configured, compiling the project should as easy as opening a terminal in the same folder and typing
+This part reads the refined mesh and loops generated at the previous step, and outputs a hex-dominant mesh. The software depends on [Qt](https://www.qt.io/download) for the GUI, [CinoLib](https://github.com/mlivesu/cinolib) for geometry processing, and [Tetgen](http://wias-berlin.de/software/tetgen/) for tetrahedralization. To compile it, please install Qt and Tetgen on your machine, and verify that references to Tetgen in the projet file `volumetric_cutter/volumetric_cutter.pro` are correct. At this point, compiling the project should as easy as opening a terminal in the same folder and typing
 ```
 qmake .
 make -j4
