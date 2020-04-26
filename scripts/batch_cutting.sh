@@ -1,6 +1,6 @@
 #!/bin/bash
 
-EXE=
+EXE=volumetric_cutter
 
 for D in `find . -type d`
 do
