@@ -38,9 +38,9 @@ x1 y1 z1             // xyz coordinates of the 2nd point
 f0 v1 v2 ... vf1     // f1: number of vertices of the 1st face, followed by the (CCW ordered) list of vertices
 f1 v1 v2 ... vf2     // f2: number of vertices of the 2nd face, followed by the (CCW ordered) list of vertices
 ...                  //
-p1  f1 -f2 ...  fp1  // p1: nuber of faces of the 1st polyhedron, followed by the list of faces
-p2 -f1  f2 ... -fp2  // p2: nuber of faces of the 2nd polyhedron, followed by the list of faces
-...                  // (references with negative numbers (e.g. -f) denote that face |f| is seen CW by the current poly)
+p1  f1 -f2 ...  fp1  // p1: number of faces of the 1st polyhedron, followed by the list of faces
+p2 -f1  f2 ... -fp2  // p2: number of faces of the 2nd polyhedron, followed by the list of faces
+...                  // (references with negative numbers (e.g. -f) denote that face |f| is seen CW by the polyhedron)
 ```
 These meshes can be visualized using [CinoLib](https://github.com/mlivesu/cinolib) (see e.g. example [#06](https://github.com/mlivesu/cinolib/tree/master/examples/06_base_app_polyhedralmesh)). Note that in case the output is a full hexahedral mesh a `.mesh` file will be also produced. Such a file can be visually inspected directly on browser connecting to [HexaLab](https://www.hexalab.net).
 
