@@ -1,4 +1,4 @@
-CINOLIB_PATH    = /Users/cino/Documents/research/devel/lib/CinoLib/
+CINOLIB_PATH    = $$PWD/../lib/cinoLib/
 QT             += core opengl
 TEMPLATE        = app
 TARGET          = volumetric_cutter
