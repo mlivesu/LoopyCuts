@@ -13,7 +13,7 @@ This repository contains the meshing software developed as part of the publicati
 ACM Transactions on Graphics (SIGGRAPH 2020)<br>
 [PDF](http://pers.ge.imati.cnr.it/livesu/papers/LPPSC20/LPPSC20.pdf)
 
-## Compilation and external dependencies
+## Code and external dependencies
 To install LoopyCuts on your machine clone this repo in recursive mode with
 ```
 git clone --recursive https://github.com/mlivesu/cinolib.git
