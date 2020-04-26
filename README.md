@@ -13,12 +13,6 @@ This repository contains the meshing software developed as part of the publicati
 ACM Transactions on Graphics (SIGGRAPH 2020)<br>
 [PDF](http://pers.ge.imati.cnr.it/livesu/papers/LPPSC20/LPPSC20.pdf)
 
-## Usage
-To start using Loopycuts clone the repo with
-```
-git clone --recursive https://github.com/mlivesu/LoopyCuts.git
-```
-
 ## Step 1: Generation of cutting loops
 NICO TODO
 
