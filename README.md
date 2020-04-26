@@ -13,11 +13,22 @@ This repository contains the meshing software developed as part of the publicati
 ACM Transactions on Graphics (SIGGRAPH 2020)<br>
 [PDF](http://pers.ge.imati.cnr.it/livesu/papers/LPPSC20/LPPSC20.pdf)
 
+## Compilation and external dependencies
+To install LoopyCuts on your machine clone this repo in recursive mode with
+```
+git clone --recursive https://github.com/mlivesu/cinolib.git
+```
+The software has a number of external dependencies, some of which must be downloaded and installed in your system separately
+* [Qt](https://www.qt.io/download) - download and install it
+* [CinoLib](https://github.com/mlivesu/cinolib) - already included in the project as a submodule, no action required)
+* [Tetgen](http://wias-berlin.de/software/tetgen/) - install it on your machine and verify that references in `volumetric_cutter/volumetric_cutter.pro` are correct
+* nico? ....
+
 ## Step 1: Generation of cutting loops
 NICO TODO
 
 ## Step 2: Cutting and Hex-dominant meshing
-This part reads the refined mesh and loops generated at the previous step, and outputs a hex-dominant mesh. The software depends on [Qt](https://www.qt.io/download) for the GUI, [CinoLib](https://github.com/mlivesu/cinolib) for geometry processing, and [Tetgen](http://wias-berlin.de/software/tetgen/) for tetrahedralization. To compile it, please install Qt and Tetgen on your machine, and verify that references to Tetgen in `volumetric_cutter/volumetric_cutter.pro` are correct. At this point, compiling the project should as easy as opening a terminal in the same folder and typing
+This part reads the refined mesh and loops generated at the previous step, and outputs a hex-dominant mesh. The software depends on [Qt](https://www.qt.io/download) for the GUI, [CinoLib](https://github.com/mlivesu/cinolib) for geometry processing, and [Tetgen](http://wias-berlin.de/software/tetgen/) for tetrahedralization. To compile it, open a terminal in `volumetric_cutter` and type
 ```
 qmake .
 make -j4
