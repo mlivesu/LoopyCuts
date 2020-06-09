@@ -1,7 +1,8 @@
 [submodule "cinolib"]
 	path = lib/cinolib
 	url = https://github.com/mlivesu/cinolib
-[submodule "vcg"]
+	
+[submodule "vcglib"]
 	path = lib/vcg
-	url = https://github.com/cnr-isti-vclab/vcglib
+	url = https://github.com/cnr-isti-vclab/vcglib.git
 	branch = devel
