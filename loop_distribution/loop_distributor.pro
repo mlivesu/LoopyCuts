@@ -1,7 +1,3 @@
-#\macx: QMAKE_MACOSX_DEPLOYMENT_TARGET = 10.13
-#QMAKE_MAC_SDK = macosx10.13
-#CONFIG += c++11
-
 ############################ PROJECT FILES ############################
 
 include(libs.pri)
@@ -26,7 +22,7 @@ QT           += opengl
 ############################ TARGET ############################
 
 #App config
-TARGET = loop_distribution
+TARGET = loop_distributor
 
 TEMPLATE = app
 CONFIG += qt
@@ -60,19 +56,11 @@ macx {
 
 ############################ INCLUDES ############################
 
-# Compile glew
-DEFINES += GLEW_STATIC
 DEFINES += NO_PATCH_SIZING
 
-#INCLUDEPATH += $$GLEWDIR/include
-#SOURCES += $$GLEWDIR/src/glew.c
-
 INCLUDEPATH += $$VCGLIBDIR
-#INCLUDEPATH += $$GLEWDIR/include
 INCLUDEPATH += $$ANTDIR/include
 INCLUDEPATH += $$EIGENLIB
-#INCLUDEPATH += $$TRACINGDIR
-#INCLUDEPATH += $$IGLLIB
 
 SOURCES += $$VCGLIBDIR/wrap/ply/plylib.cpp
 SOURCES += $$VCGLIBDIR/wrap/gui/trackball.cpp
