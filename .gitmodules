@@ -4,3 +4,4 @@
 [submodule "vcg"]
 	path = lib/vcg
 	url = https://github.com/cnr-isti-vclab/vcglib
+	branch = devel
