@@ -16,7 +16,7 @@ ACM Transactions on Graphics (SIGGRAPH 2020)<br>
 ## Code and external dependencies
 To install LoopyCuts on your machine clone this repo in recursive mode with
 ```
-git clone --recursive https://github.com/mlivesu/cinolib.git
+git clone --recursive https://github.com/mlivesu/LoopyCuts.git
 ```
 The software has a number of external dependencies, some of which must be downloaded and installed in your system separately
 * [Qt](https://www.qt.io/download): download and install it
