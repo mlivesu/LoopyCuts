@@ -40,7 +40,7 @@ The program can be used either with a GUI, or by command line (useful to batch r
 The mesh can be either an obj or a ply.
 It requires to have in the same folder a .rosy and a .sharp file (with the same name of the mesh file)
 
-##.rosy file format
+## Rosy file format
 ```
 fn                   // number of faces of the mesh
 4                    // directions of the field (always 4 for a cross-field)
@@ -49,7 +49,7 @@ x0 y0 z0             // xyz directions of one vector of the cross field of the f
 xn yn zn             // xyz directions of one vector of the cross field of the n-th face
 ```
 
-##.sharp file format
+## Sharp file format
 ```
 sn                   // number of sharp features
 t0 f0 e0             // for each sharp edge: first integer is 0 if the edge is concave 1 if convex then the face and the index of the sharp edge
@@ -63,7 +63,7 @@ _splitted mesh file  :  the mesh traced and splitted
 _loop file           :  the mesh traced and splitted
 
 
-## _loop file format
+## Loop file format
 ```
 ln                  // number of loops
 for each loop:
