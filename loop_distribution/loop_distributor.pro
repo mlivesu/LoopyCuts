@@ -77,9 +77,8 @@ mac{
 # Mac specific Config required to avoid to make application bundles
 # CONFIG -= app_bundle
   LIBS +=$$ANTDIR/lib/libAntTweakBar.dylib
-  QMAKE_POST_LINK +="cp -P ../../../code/lib/AntTweakBar1.16/lib/libAntTweakBar.dylib . ; "
+  QMAKE_POST_LINK +="cp -P ../lib/AntTweakBar1.16/lib/libAntTweakBar.dylib . ; "
   QMAKE_POST_LINK +="install_name_tool -change ../lib/libAntTweakBar.dylib ./libAntTweakBar.dylib $$TARGET ; "
   DEPENDPATH += .
-  DEPENDPATH += /Users/nicopietroni/Desktop/sandbox/pietroni/TriField
 }
 
