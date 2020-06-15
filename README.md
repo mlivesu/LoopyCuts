@@ -35,29 +35,36 @@ make -j4
 ```
 The program can be used either with a GUI, or by command line (useful to batch run entire datasets of models).
 ```
-./loop_distributor <mesh> [ -batch]
+./loop_distributor <mesh> [batch]
 ```
 The mesh can be either an obj or a ply.
 It requires to have in the same folder a .rosy and a .sharp file (with the same name of the mesh file)
 
-#.rosy file format
+##.rosy file format
+```
 fn                   // number of faces of the mesh
 4                    // directions of the field (always 4 for a cross-field)
 x0 y0 z0             // xyz directions of one vector of the cross field of the first face
 ...
 xn yn zn             // xyz directions of one vector of the cross field of the n-th face
+```
 
-#.sharp file format
+##.sharp file format
+```
 sn                   // number of sharp features
 t0 f0 e0             // for each sharp edge: first integer is 0 if the edge is concave 1 if convex then the face and the index of the sharp edge
 ...
 tn fn en             // nth sharp edge
+```
 
 ## Output files
-_splitted mesh file  //the mesh traced and splitted
-_loop file  //the mesh traced and splitted
 
-# _loop file format
+_splitted mesh file  :  the mesh traced and splitted
+_loop file           :  the mesh traced and splitted
+
+
+## _loop file format
+```
 ln                  // number of loops
 for each loop:
 REGULAR|CONCAVE|CONVEX      //the kind of loop
@@ -65,8 +72,7 @@ Closed|Open                 //if the loop has been succesfully closed or not
 Cross OK|FAIL               //if the loop has the right number of cross for topology of the cut
 en                          //number of edges of the loop
 indexF indexE 0|1           //the index of the face, the edge and if is on a sharp feature or not
-
-#loop
+```
 
 ## Step 2: Cutting and Hex-dominant meshing
 This part reads the refined mesh and loops generated at the previous step, and outputs a hex-dominant mesh. The software depends on [Qt](https://www.qt.io/download) for the GUI, [CinoLib](https://github.com/mlivesu/cinolib) for geometry processing, and [Tetgen](http://wias-berlin.de/software/tetgen/) for tetrahedralization. To compile it, open a terminal in `volumetric_cutter` and type
