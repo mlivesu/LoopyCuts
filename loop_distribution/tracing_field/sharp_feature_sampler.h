@@ -739,18 +739,18 @@ private:
         std::pair<int,int> StartingPartition;
         PathType LoopP;
         ScalarType CoveredLenght;
-        ScalarType CurvatureL;
+        //ScalarType CurvatureL;
         //size_t Modifier;
 
         CandidateSharpLoop(const PathType &_LoopP,
                            const int _StartingNode,
-                           const std::pair<int,int> _StartingPartition,
-                           ScalarType _CurvatureL)
+                           const std::pair<int,int> _StartingPartition)
+                           //ScalarType _CurvatureL)
         {
             LoopP=_LoopP;
             StartingNode=_StartingNode;
             StartingPartition=_StartingPartition;
-            CurvatureL=_CurvatureL;
+            //CurvatureL=_CurvatureL;
             CoveredLenght=0;
             //Modifier=0;
         }
@@ -760,8 +760,8 @@ private:
             assert(StartingNode>=0);
             assert(StartingPartition.first>=0);
             assert(StartingPartition.second>=0);
-            return (CurvatureL>Cloop.CurvatureL);
-            //return (CoveredLenght<Cloop.CoveredLenght);
+            //return (CurvatureL>Cloop.CurvatureL);
+            return (CoveredLenght<Cloop.CoveredLenght);
 
             //            int Size0=Cloop.CoveredFeatures.size();//+Cloop.Modifier;
             //            int Size1=CoveredFeatures.size();//+Modifier;
@@ -1006,8 +1006,8 @@ private:
             }
 
             //std::cout<<"Checking Loop "<<std::endl;
-            ScalarType CurrCurvLoop=LoopFunctions<MeshType>::ComputeLoopCurvature(anigraph,CurrP,PD1C,PD2C,K1,K2);
-            CandidateSharpLoop CLoop(CurrP,StartNodes[i],SharpSide,CurrCurvLoop);
+            //ScalarType CurrCurvLoop=LoopFunctions<MeshType>::ComputeLoopCurvature(anigraph,CurrP,PD1C,PD2C,K1,K2);
+            CandidateSharpLoop CLoop(CurrP,StartNodes[i],SharpSide);//,CurrCurvLoop);
 
             //update the covering
             bool OkCover=UpdateCoveredFeatures(CLoop);
@@ -2294,8 +2294,8 @@ public:
 
     }
 
-    std::vector<CoordType> PD1C,PD2C;
-    std::vector<ScalarType> K1,K2;
+//    std::vector<CoordType> PD1C,PD2C;
+//    std::vector<ScalarType> K1,K2;
 
 //    void InitCurvVectors()
 //    {

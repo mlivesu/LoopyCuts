@@ -2564,7 +2564,6 @@ public:
 
         InitSampling(_SParams);
 
-
         UpdateCrossIntersection();
 
         UpdateIntersectionNeeds();
