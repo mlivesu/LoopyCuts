@@ -1,0 +1,7872 @@
+Initializing graph ... Subdivision 3 Edge distance 0.238328
+Sampled in Average 3.29087 samples per Edge 
+done. Sampled 285832 edge-nodes. Time 77218
+Setting connections ... done. Time 672322
+Initializing points-nodes mapping ... done. Time 43153
+Adding singularity nodes ... done. Added 0 singularity nodes. Time 1
+Adding sink nodes ...done. Time 6
+Re-initializing points-nodes mapping ... done. Time 65243
+Initialize  opposite nodes... done. Time 30931
+Initializing Intersections Table
+Initializing Vert Intersection Table
+Time 379985
+Initializing face node table
+done
+Time 13758
+done
+Initializing Graph
+There are 14 guard pos features 
+There are 3 concave features 
+Tracing 0 side 0
+Tracing 0 side 1
+Tracing 1 side 0
+Tracing 1 side 1
+Tracing 2 side 0
+Tracing 2 side 1
+THERE ARE 0 UNSAMPLED FEATURES
+TIME 0.009236 FOR TRACING
+TIME 0.001888 FOR CHECKING
+Added loop
+Updating Step
+Retraced 3 loops
+Added loop
+Updating Step
+Retraced 0 loops
+Remaining to trace 0
+*** FINAL STATS Sharp Tracing***
+* Closed Loops From Begin 2
+* Loops Traced 2
+* Concave UnTraced 0
+* Convex Features 12
+Sampled 20 out of 20
+Sampled 20 out of 20
+Sampled 20 out of 20
+Sampled 20 out of 20
+Sampled 21 out of 20
+*** Adding Candidates from sharp features ***
+*** Done ***
+*** Update distances from features loops ***
+*** Done ***
+*** Update distances from choosen loops ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 101 on total of 101
+*** End Updating LOOPS ***
+There are 78 candidates
+Check Sharp Sharp Intersections
+done
+Check Sharp Loop Intersections
+done
+Check Loops Loops Intersections
+done
+Sampling Essential Loops
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 36 on total of 77
+*** End Updating LOOPS ***
+There are 58 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 22 on total of 57
+*** End Updating LOOPS ***
+There are 49 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 43 on total of 48
+*** End Updating LOOPS ***
+There are 23 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+Sampling Additional Loops
+Sampling  Initial Points 
+Sampled 1088 Initial Points 
+Updating step
+*** UPDATING LOOPS ***
+ updated 1088 on total of 1088
+*** End Updating LOOPS ***
+There are 553 candidates
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 9 on total of 552
+*** End Updating LOOPS ***
+There are 548 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 8 on total of 547
+*** End Updating LOOPS ***
+There are 545 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 4 on total of 544
+*** End Updating LOOPS ***
+There are 542 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 7 on total of 541
+*** End Updating LOOPS ***
+There are 536 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 10 on total of 535
+*** End Updating LOOPS ***
+There are 532 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 3 on total of 531
+*** End Updating LOOPS ***
+There are 530 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 4 on total of 529
+*** End Updating LOOPS ***
+There are 527 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 3 on total of 526
+*** End Updating LOOPS ***
+There are 525 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 18 on total of 524
+*** End Updating LOOPS ***
+There are 521 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 11 on total of 520
+*** End Updating LOOPS ***
+There are 517 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 4 on total of 516
+*** End Updating LOOPS ***
+There are 515 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 4 on total of 514
+*** End Updating LOOPS ***
+There are 513 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 11 on total of 512
+*** End Updating LOOPS ***
+There are 510 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 4 on total of 509
+*** End Updating LOOPS ***
+There are 507 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 3 on total of 506
+*** End Updating LOOPS ***
+There are 506 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 505
+*** End Updating LOOPS ***
+There are 504 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 5 on total of 503
+*** End Updating LOOPS ***
+There are 501 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 9 on total of 500
+*** End Updating LOOPS ***
+There are 499 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 32 on total of 498
+*** End Updating LOOPS ***
+There are 496 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 2 on total of 495
+*** End Updating LOOPS ***
+There are 494 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 2 on total of 493
+*** End Updating LOOPS ***
+There are 492 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 45 on total of 491
+*** End Updating LOOPS ***
+There are 463 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 44 on total of 462
+*** End Updating LOOPS ***
+There are 455 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 6 on total of 454
+*** End Updating LOOPS ***
+There are 453 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 29 on total of 452
+*** End Updating LOOPS ***
+There are 443 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 4 on total of 442
+*** End Updating LOOPS ***
+There are 441 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 13 on total of 440
+*** End Updating LOOPS ***
+There are 437 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 436
+*** End Updating LOOPS ***
+There are 436 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 48 on total of 435
+*** End Updating LOOPS ***
+There are 387 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 5 on total of 386
+*** End Updating LOOPS ***
+There are 386 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 10 on total of 385
+*** End Updating LOOPS ***
+There are 378 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 8 on total of 377
+*** End Updating LOOPS ***
+There are 372 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 7 on total of 371
+*** End Updating LOOPS ***
+There are 371 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 5 on total of 370
+*** End Updating LOOPS ***
+There are 367 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 5 on total of 366
+*** End Updating LOOPS ***
+There are 364 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 17 on total of 363
+*** End Updating LOOPS ***
+There are 359 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 13 on total of 358
+*** End Updating LOOPS ***
+There are 354 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 7 on total of 353
+*** End Updating LOOPS ***
+There are 353 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 52 on total of 352
+*** End Updating LOOPS ***
+There are 334 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 7 on total of 333
+*** End Updating LOOPS ***
+There are 330 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 2 on total of 329
+*** End Updating LOOPS ***
+There are 329 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 14 on total of 328
+*** End Updating LOOPS ***
+There are 324 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 6 on total of 323
+*** End Updating LOOPS ***
+There are 319 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 4 on total of 318
+*** End Updating LOOPS ***
+There are 317 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 19 on total of 316
+*** End Updating LOOPS ***
+There are 306 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 0 on total of 305
+*** End Updating LOOPS ***
+There are 305 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 0 on total of 304
+*** End Updating LOOPS ***
+There are 304 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 303
+*** End Updating LOOPS ***
+There are 302 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 33 on total of 301
+*** End Updating LOOPS ***
+There are 268 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 9 on total of 267
+*** End Updating LOOPS ***
+There are 258 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 24 on total of 257
+*** End Updating LOOPS ***
+There are 246 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 23 on total of 245
+*** End Updating LOOPS ***
+There are 234 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 16 on total of 233
+*** End Updating LOOPS ***
+There are 217 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 6 on total of 216
+*** End Updating LOOPS ***
+There are 212 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 8 on total of 211
+*** End Updating LOOPS ***
+There are 206 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 11 on total of 205
+*** End Updating LOOPS ***
+There are 199 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 0 on total of 198
+*** End Updating LOOPS ***
+There are 198 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 8 on total of 197
+*** End Updating LOOPS ***
+There are 191 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 190
+*** End Updating LOOPS ***
+There are 189 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 8 on total of 188
+*** End Updating LOOPS ***
+There are 180 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 0 on total of 179
+*** End Updating LOOPS ***
+There are 179 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+Added 61 Additional Loops
+*** FIXING UNSOLVED PATHS ***
+1- Gathering Unsolved ones
+2- start trying to solve 
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Updating step
+*** UPDATING LOOPS ***
+ updated 1 on total of 1
+*** End Updating LOOPS ***
+There are 0 candidates
+Check Sharp Sharp Intersections
+done
+Check Sharp Loop Intersections
+done
+Check Loops Loops Intersections
+done
+*** UNSOLVED PATHS ***
+Path Index 0
+Path Index 2
+Path Index 3
+Path Index 3
+Path Index 3
+Path Index 4
+Path Index 4
+Path Index 12
+Path Index 12
+Path Index 24
+Path Index 24
+Path Index 25
+Path Index 25
+Path Index 28
+Path Index 28
+Path Index 30
+Path Index 30
+Path Index 33
+Path Index 43
+Path Index 50
+Path Index 50
+Path Index 51
+Path Index 51
+Path Index 52
+Path Index 52
+Path Index 53
+Path Index 58
+Path Index 58
+Path Index 59
+Path Index 59
+Path Index 61
+Path Index 61
+***WARNING 1 CONFLICTS ***
+...Cleaning...
+*PATHS:  3 4
+Step propagate
+Step propagate
+Step propagate
+Step propagate
+Step propagate
+getting Edge Mesh
+SPLIT ITERATION 730
+SPLIT ITERATION 24
+Splitting Internal
+Setted crossing faces 5505
+Setted crossing faces 6880
+Setted crossing faces 6917
+Splitting The rest
+PERFORMIN SPLIT STEP 
+Setted crossing faces 6917
+Added splitting operations 6749
+PERFORMIN SPLIT STEP 
+Setted crossing faces 9168
+Added splitting operations 1254
+PERFORMIN SPLIT STEP 
+Setted crossing faces 9436
+Added splitting operations 35
+PERFORMIN SPLIT STEP 
+Setted crossing faces 9467
+Added splitting operations 0
+SPLITTING OPS TERMINATED
+Splitting Step End
+Updating Path
+Retrieving Sequences
+Done
+*** TIME :33.506 ***

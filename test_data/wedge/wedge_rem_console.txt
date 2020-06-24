@@ -1,0 +1,1071 @@
+Initializing graph ... Subdivision 3 Edge distance 0.0344299
+Sampled in Average 3.07962 samples per Edge 
+done. Sampled 165856 edge-nodes. Time 48377
+Setting connections ... done. Time 300234
+Initializing points-nodes mapping ... done. Time 24484
+Adding singularity nodes ... done. Added 0 singularity nodes. Time 1
+Adding sink nodes ...done. Time 6
+Deleting unconnected nodes ...Deleting Unreferenced Step
+Deleting Unreferenced Step
+Deleting Unreferenced Step
+Deleting Unreferenced Step
+Deleting Unreferenced Step
+done. Deleted 84712 nodes. Time 184228
+Re-initializing points-nodes mapping ... done. Time 34975
+Initialize  opposite nodes... done. Time 8124
+Initializing Intersections Table
+Initializing Vert Intersection Table
+Time 92890
+Initializing face node table
+done
+Time 6123
+done
+Initializing Graph
+There are 9 guard pos features 
+There are 0 concave features 
+THERE ARE 0 UNSAMPLED FEATURES
+TIME 0 FOR TRACING
+TIME 0 FOR CHECKING
+Remaining to trace 0
+*** FINAL STATS Sharp Tracing***
+* Closed Loops From Begin 0
+* Loops Traced 0
+* Concave UnTraced 0
+* Convex Features 9
+*** Adding Candidates from sharp features ***
+*** Done ***
+*** Update distances from features loops ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 0 on total of 0
+*** End Updating LOOPS ***
+There are 0 candidates
+Check Sharp Sharp Intersections
+done
+Check Sharp Loop Intersections
+done
+Check Loops Loops Intersections
+done
+Sampling Essential Loops
+Sampling Additional Loops
+Sampling  Initial Points 
+Sampled 1051 Initial Points 
+Updating step
+*** UPDATING LOOPS ***
+ updated 1051 on total of 1051
+*** End Updating LOOPS ***
+There are 925 candidates
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 38 on total of 924
+*** End Updating LOOPS ***
+There are 917 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 71 on total of 916
+*** End Updating LOOPS ***
+There are 908 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 29 on total of 907
+*** End Updating LOOPS ***
+There are 903 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 31 on total of 902
+*** End Updating LOOPS ***
+There are 894 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 61 on total of 893
+*** End Updating LOOPS ***
+There are 886 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 51 on total of 885
+*** End Updating LOOPS ***
+There are 882 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 32 on total of 881
+*** End Updating LOOPS ***
+There are 876 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 9 on total of 875
+*** End Updating LOOPS ***
+There are 872 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 11 on total of 871
+*** End Updating LOOPS ***
+There are 865 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 20 on total of 864
+*** End Updating LOOPS ***
+There are 862 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 65 on total of 861
+*** End Updating LOOPS ***
+There are 852 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 17 on total of 851
+*** End Updating LOOPS ***
+There are 845 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 8 on total of 844
+*** End Updating LOOPS ***
+There are 840 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 15 on total of 839
+*** End Updating LOOPS ***
+There are 835 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 25 on total of 834
+*** End Updating LOOPS ***
+There are 830 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 16 on total of 829
+*** End Updating LOOPS ***
+There are 825 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 79 on total of 824
+*** End Updating LOOPS ***
+There are 816 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 72 on total of 815
+*** End Updating LOOPS ***
+There are 806 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 27 on total of 805
+*** End Updating LOOPS ***
+There are 795 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 8 on total of 794
+*** End Updating LOOPS ***
+There are 791 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 21 on total of 790
+*** End Updating LOOPS ***
+There are 782 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 13 on total of 781
+*** End Updating LOOPS ***
+There are 775 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 22 on total of 774
+*** End Updating LOOPS ***
+There are 766 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 52 on total of 765
+*** End Updating LOOPS ***
+There are 759 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 21 on total of 758
+*** End Updating LOOPS ***
+There are 755 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 22 on total of 754
+*** End Updating LOOPS ***
+There are 736 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 34 on total of 735
+*** End Updating LOOPS ***
+There are 701 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 28 on total of 700
+*** End Updating LOOPS ***
+There are 699 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 61 on total of 698
+*** End Updating LOOPS ***
+There are 660 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 50 on total of 659
+*** End Updating LOOPS ***
+There are 654 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 33 on total of 653
+*** End Updating LOOPS ***
+There are 646 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 29 on total of 645
+*** End Updating LOOPS ***
+There are 641 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 22 on total of 640
+*** End Updating LOOPS ***
+There are 633 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 11 on total of 632
+*** End Updating LOOPS ***
+There are 630 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 48 on total of 629
+*** End Updating LOOPS ***
+There are 623 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 41 on total of 622
+*** End Updating LOOPS ***
+There are 616 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 22 on total of 615
+*** End Updating LOOPS ***
+There are 611 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 23 on total of 610
+*** End Updating LOOPS ***
+There are 604 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 49 on total of 603
+*** End Updating LOOPS ***
+There are 583 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 19 on total of 582
+*** End Updating LOOPS ***
+There are 579 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 29 on total of 578
+*** End Updating LOOPS ***
+There are 549 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 6 on total of 548
+*** End Updating LOOPS ***
+There are 542 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 26 on total of 541
+*** End Updating LOOPS ***
+There are 525 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 19 on total of 524
+*** End Updating LOOPS ***
+There are 517 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 29 on total of 516
+*** End Updating LOOPS ***
+There are 512 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 21 on total of 511
+*** End Updating LOOPS ***
+There are 490 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 28 on total of 489
+*** End Updating LOOPS ***
+There are 461 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 28 on total of 460
+*** End Updating LOOPS ***
+There are 432 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 19 on total of 431
+*** End Updating LOOPS ***
+There are 412 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 32 on total of 411
+*** End Updating LOOPS ***
+There are 379 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 13 on total of 378
+*** End Updating LOOPS ***
+There are 365 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 14 on total of 364
+*** End Updating LOOPS ***
+There are 350 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 15 on total of 349
+*** End Updating LOOPS ***
+There are 334 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 9 on total of 333
+*** End Updating LOOPS ***
+There are 324 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 22 on total of 323
+*** End Updating LOOPS ***
+There are 301 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 7 on total of 300
+*** End Updating LOOPS ***
+There are 293 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 10 on total of 292
+*** End Updating LOOPS ***
+There are 282 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 3 on total of 281
+*** End Updating LOOPS ***
+There are 279 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 7 on total of 278
+*** End Updating LOOPS ***
+There are 271 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 12 on total of 270
+*** End Updating LOOPS ***
+There are 258 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 22 on total of 257
+*** End Updating LOOPS ***
+There are 235 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+Added 61 Additional Loops
+*** FIXING UNSOLVED PATHS ***
+1- Gathering Unsolved ones
+Check Sharp Sharp Intersections
+done
+Check Sharp Loop Intersections
+done
+Check Loops Loops Intersections
+done
+Step propagate
+getting Edge Mesh
+SPLIT ITERATION 991
+SPLIT ITERATION 73
+Splitting Internal
+Setted crossing faces 4303
+Setted crossing faces 6226
+Setted crossing faces 6352
+Setted crossing faces 6354
+Splitting The rest
+PERFORMIN SPLIT STEP 
+Setted crossing faces 6354
+Added splitting operations 6270
+PERFORMIN SPLIT STEP 
+Setted crossing faces 10128
+Added splitting operations 2441
+PERFORMIN SPLIT STEP 
+Setted crossing faces 10855
+Added splitting operations 154
+PERFORMIN SPLIT STEP 
+Setted crossing faces 10864
+Added splitting operations 0
+SPLITTING OPS TERMINATED
+Splitting Step End
+Updating Path
+Retrieving Sequences
+Done
+*** TIME :11.9849 ***

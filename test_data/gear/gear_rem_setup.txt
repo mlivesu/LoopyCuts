@@ -1,0 +1,13 @@
+Graph Resolution 3 
+Max Angle 45.00000 
+Deviance Penalty 100.00000 
+OverSample Rate 10 
+Ortho Loop Samples 20 
+Complete Concave 1 
+Avoid Self 1 
+Only Ortho Close 1 
+Resample Loops 1 
+Update Loops 1 
+Close Convex 1 
+Fix Cross 1 
+Additional 60 
