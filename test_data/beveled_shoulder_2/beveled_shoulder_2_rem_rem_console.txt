@@ -1,23 +1,23 @@
 Initializing graph ... Subdivision 3 Edge distance 0.398629
 Sampled in Average 3.1031 samples per Edge 
-done. Sampled 305792 edge-nodes. Time 83845
-Setting connections ... done. Time 526033
-Initializing points-nodes mapping ... done. Time 48647
-Adding singularity nodes ... done. Added 0 singularity nodes. Time 1
-Adding sink nodes ...done. Time 5
+done. Sampled 305792 edge-nodes. Time 83071
+Setting connections ... done. Time 547986
+Initializing points-nodes mapping ... done. Time 47928
+Adding singularity nodes ... done. Added 0 singularity nodes. Time 0
+Adding sink nodes ...done. Time 6
 Deleting unconnected nodes ...Deleting Unreferenced Step
 Deleting Unreferenced Step
 Deleting Unreferenced Step
 Deleting Unreferenced Step
-done. Deleted 155702 nodes. Time 334274
-Re-initializing points-nodes mapping ... done. Time 73674
-Initialize  opposite nodes... done. Time 19907
+done. Deleted 155702 nodes. Time 312499
+Re-initializing points-nodes mapping ... done. Time 71816
+Initialize  opposite nodes... done. Time 18374
 Initializing Intersections Table
 Initializing Vert Intersection Table
-Time 169806
+Time 170594
 Initializing face node table
 done
-Time 10673
+Time 11004
 done
 Initializing Graph
 There are 25 guard pos features 
@@ -33,8 +33,8 @@ Tracing 3 side 1
 Tracing 4 side 0
 Tracing 4 side 1
 THERE ARE 0 UNSAMPLED FEATURES
-TIME 0.012718 FOR TRACING
-TIME 0.004882 FOR CHECKING
+TIME 0.013129 FOR TRACING
+TIME 0.00463 FOR CHECKING
 Added loop
 Updating Step
 Retraced 0 loops
@@ -1097,17 +1097,18 @@ PERFORMIN SPLIT STEP
 Setted crossing faces 7597
 Added splitting operations 7358
 PERFORMIN SPLIT STEP 
-Setted crossing faces 9599
+Setted crossing faces 9591
 Added splitting operations 1069
 PERFORMIN SPLIT STEP 
-Setted crossing faces 9853
+Setted crossing faces 9801
 Added splitting operations 14
 PERFORMIN SPLIT STEP 
-Setted crossing faces 9846
+Setted crossing faces 9859
 Added splitting operations 0
 SPLITTING OPS TERMINATED
 Splitting Step End
 Updating Path
 Retrieving Sequences
 Done
-*** TIME :15.9224 ***
+There are 1409 partitions
+*** TIME :17.7638 ***

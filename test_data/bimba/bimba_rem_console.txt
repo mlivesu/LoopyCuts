@@ -1,23 +1,23 @@
 Initializing graph ... Subdivision 3 Edge distance 0.00461647
 Sampled in Average 3.84826 samples per Edge 
-done. Sampled 1087056 edge-nodes. Time 315985
-Setting connections ... done. Time 2889645
-Initializing points-nodes mapping ... done. Time 216259
-Adding singularity nodes ... done. Added 0 singularity nodes. Time 0
-Adding sink nodes ...done. Time 0
+done. Sampled 1087056 edge-nodes. Time 292446
+Setting connections ... done. Time 2915360
+Initializing points-nodes mapping ... done. Time 248614
+Adding singularity nodes ... done. Added 0 singularity nodes. Time 2
+Adding sink nodes ...done. Time 7
 Deleting unconnected nodes ...Deleting Unreferenced Step
 Deleting Unreferenced Step
 Deleting Unreferenced Step
 Deleting Unreferenced Step
-done. Deleted 507070 nodes. Time 1227499
-Re-initializing points-nodes mapping ... done. Time 304511
-Initialize  opposite nodes... done. Time 115004
+done. Deleted 507070 nodes. Time 1374355
+Re-initializing points-nodes mapping ... done. Time 295786
+Initialize  opposite nodes... done. Time 110614
 Initializing Intersections Table
 Initializing Vert Intersection Table
-Time 745858
+Time 730727
 Initializing face node table
 done
-Time 36475
+Time 41686
 done
 Initializing Graph
 There are 0 guard pos features 
@@ -1052,14 +1052,15 @@ PERFORMIN SPLIT STEP
 Setted crossing faces 15306
 Added splitting operations 15070
 PERFORMIN SPLIT STEP 
-Setted crossing faces 17446
+Setted crossing faces 17440
 Added splitting operations 961
 PERFORMIN SPLIT STEP 
-Setted crossing faces 17674
+Setted crossing faces 17668
 Added splitting operations 0
 SPLITTING OPS TERMINATED
 Splitting Step End
 Updating Path
 Retrieving Sequences
 Done
-*** TIME :212.999 ***
+There are 1434 partitions
+*** TIME :220.035 ***

@@ -1,18 +1,18 @@
 Initializing graph ... Subdivision 3 Edge distance 0.0112783
 Sampled in Average 3.33062 samples per Edge 
-done. Sampled 88408 edge-nodes. Time 23469
-Setting connections ... done. Time 196044
-Initializing points-nodes mapping ... done. Time 10958
-Adding singularity nodes ... done. Added 0 singularity nodes. Time 2
-Adding sink nodes ...done. Time 5
-Re-initializing points-nodes mapping ... done. Time 16846
-Initialize  opposite nodes... done. Time 8156
+done. Sampled 88408 edge-nodes. Time 25515
+Setting connections ... done. Time 211995
+Initializing points-nodes mapping ... done. Time 11077
+Adding singularity nodes ... done. Added 0 singularity nodes. Time 1
+Adding sink nodes ...done. Time 6
+Re-initializing points-nodes mapping ... done. Time 19887
+Initialize  opposite nodes... done. Time 8996
 Initializing Intersections Table
 Initializing Vert Intersection Table
-Time 119769
+Time 123799
 Initializing face node table
 done
-Time 4153
+Time 4323
 done
 Initializing Graph
 There are 2 guard pos features 
@@ -5469,10 +5469,10 @@ PERFORMIN SPLIT STEP
 Setted crossing faces 3690
 Added splitting operations 3704
 PERFORMIN SPLIT STEP 
-Setted crossing faces 6698
+Setted crossing faces 6697
 Added splitting operations 2133
 PERFORMIN SPLIT STEP 
-Setted crossing faces 7512
+Setted crossing faces 7514
 Added splitting operations 234
 PERFORMIN SPLIT STEP 
 Setted crossing faces 7558
@@ -5485,4 +5485,4 @@ Done
 There are 1374 partitions
 WARNING: bad crossing MUST BE SOLVED 
 WARNING: bad crossing MUST BE SOLVED 
-*** TIME :6.53025 ***
+*** TIME :7.64728 ***

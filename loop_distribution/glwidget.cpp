@@ -81,6 +81,8 @@ bool splitted=false;
 bool batch_process=false;
 //bool has_field=false;
 bool has_features=false;
+bool delete_unref=true;
+bool add_sing_nodes=false;
 
 MyEMesh EdgeM;
 
@@ -95,7 +97,7 @@ bool select_loops=false;
 
 void InitializeGraph()
 {
-    aniGraph.InitGraph(GraphRes,SParam.MaxDev,false,false);
+    aniGraph.InitGraph(GraphRes,SParam.MaxDev,add_sing_nodes,delete_unref);
 }
 
 

@@ -1,18 +1,18 @@
 Initializing graph ... Subdivision 3 Edge distance 0.680223
 Sampled in Average 3.11347 samples per Edge 
-done. Sampled 622072 edge-nodes. Time 175074
-Setting connections ... done. Time 1186493
-Initializing points-nodes mapping ... done. Time 118594
+done. Sampled 622072 edge-nodes. Time 173656
+Setting connections ... done. Time 1193439
+Initializing points-nodes mapping ... done. Time 118260
 Adding singularity nodes ... done. Added 0 singularity nodes. Time 1
-Adding sink nodes ...done. Time 6
-Re-initializing points-nodes mapping ... done. Time 169153
-Initialize  opposite nodes... done. Time 55601
+Adding sink nodes ...done. Time 7
+Re-initializing points-nodes mapping ... done. Time 170439
+Initialize  opposite nodes... done. Time 48820
 Initializing Intersections Table
 Initializing Vert Intersection Table
-Time 884947
+Time 893412
 Initializing face node table
 done
-Time 30540
+Time 34661
 done
 Initializing Graph
 There are 20 guard pos features 
@@ -64,8 +64,8 @@ Tracing 6 side 1
 Tracing 7 side 0
 Tracing 7 side 1
 THERE ARE 9 UNSAMPLED FEATURES
-TIME 1.70078 FOR TRACING
-TIME 0.037958 FOR CHECKING
+TIME 1.73374 FOR TRACING
+TIME 0.037665 FOR CHECKING
 Added loop
 Updating Step
 Retraced 0 loops
@@ -1345,201 +1345,12 @@ done
 Added 61 Additional Loops
 *** FIXING UNSOLVED PATHS ***
 1- Gathering Unsolved ones
-2- start trying to solve 
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
-Updating step
-*** UPDATING LOOPS ***
- updated 1 on total of 1
-*** End Updating LOOPS ***
-There are 0 candidates
 Check Sharp Sharp Intersections
 done
 Check Sharp Loop Intersections
 done
 Check Loops Loops Intersections
 done
-*** UNSOLVED PATHS ***
-Path Index 4
-Path Index 23
-Path Index 33
-Path Index 37
-Path Index 43
-Path Index 58
-Path Index 66
 Step propagate
 Step propagate
 Step propagate
@@ -1549,23 +1360,26 @@ SPLIT ITERATION 19
 Splitting Internal
 Setted crossing faces 11753
 Setted crossing faces 14137
-Setted crossing faces 14172
+Setted crossing faces 14169
 Splitting The rest
 PERFORMIN SPLIT STEP 
-Setted crossing faces 14172
+Setted crossing faces 14169
 Added splitting operations 13759
 PERFORMIN SPLIT STEP 
-Setted crossing faces 17713
+Setted crossing faces 17744
 Added splitting operations 2026
 PERFORMIN SPLIT STEP 
-Setted crossing faces 18167
+Setted crossing faces 18188
 Added splitting operations 48
 PERFORMIN SPLIT STEP 
-Setted crossing faces 18156
+Setted crossing faces 18144
 Added splitting operations 0
 SPLITTING OPS TERMINATED
 Splitting Step End
 Updating Path
 Retrieving Sequences
 Done
-*** TIME :67.4349 ***
+There are 2396 partitions
+WARNING: bad crossing MUST BE SOLVED 
+WARNING: bad crossing MUST BE SOLVED 
+*** TIME :69.7847 ***

@@ -1,23 +1,23 @@
 Initializing graph ... Subdivision 3 Edge distance 0.479614
 Sampled in Average 4.45769 samples per Edge 
-done. Sampled 27816 edge-nodes. Time 7634
-Setting connections ... done. Time 79452
-Initializing points-nodes mapping ... done. Time 3123
+done. Sampled 27816 edge-nodes. Time 7590
+Setting connections ... done. Time 82813
+Initializing points-nodes mapping ... done. Time 3511
 Adding singularity nodes ... done. Added 0 singularity nodes. Time 2
-Adding sink nodes ...done. Time 1
+Adding sink nodes ...done. Time 6
 Deleting unconnected nodes ...Deleting Unreferenced Step
 Deleting Unreferenced Step
 Deleting Unreferenced Step
 Deleting Unreferenced Step
-done. Deleted 13062 nodes. Time 23159
-Re-initializing points-nodes mapping ... done. Time 5104
-Initialize  opposite nodes... done. Time 1754
+done. Deleted 13062 nodes. Time 28414
+Re-initializing points-nodes mapping ... done. Time 5542
+Initialize  opposite nodes... done. Time 2278
 Initializing Intersections Table
 Initializing Vert Intersection Table
-Time 15518
+Time 17900
 Initializing face node table
 done
-Time 814
+Time 924
 done
 Initializing Graph
 There are 4 guard pos features 
@@ -29,8 +29,8 @@ Tracing 1 side 1
 Tracing 2 side 0
 Tracing 2 side 1
 THERE ARE 0 UNSAMPLED FEATURES
-TIME 0.001053 FOR TRACING
-TIME 0.00075 FOR CHECKING
+TIME 0.001497 FOR TRACING
+TIME 0.000954 FOR CHECKING
 Added loop
 Updating Step
 Retraced 0 loops
@@ -57,7 +57,7 @@ Updating step
 *** UPDATING LOOPS ***
  updated 21 on total of 21
 *** End Updating LOOPS ***
-There are 19 candidates
+There are 18 candidates
 Check Sharp Sharp Intersections
 done
 Check Sharp Loop Intersections
@@ -72,14 +72,14 @@ Updating step
 *** UPDATING LOOPS ***
  updated 1015 on total of 1015
 *** End Updating LOOPS ***
-There are 878 candidates
+There are 877 candidates
 *** Update distances considering new added loop ***
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 133 on total of 877
+ updated 133 on total of 876
 *** End Updating LOOPS ***
-There are 858 candidates
+There are 857 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -93,9 +93,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 25 on total of 857
+ updated 25 on total of 856
 *** End Updating LOOPS ***
-There are 845 candidates
+There are 844 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -109,9 +109,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 161 on total of 844
+ updated 162 on total of 843
 *** End Updating LOOPS ***
-There are 766 candidates
+There are 764 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -125,9 +125,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 154 on total of 765
+ updated 157 on total of 763
 *** End Updating LOOPS ***
-There are 633 candidates
+There are 628 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -141,9 +141,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 92 on total of 632
+ updated 43 on total of 627
 *** End Updating LOOPS ***
-There are 565 candidates
+There are 608 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -157,9 +157,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 43 on total of 564
+ updated 154 on total of 607
 *** End Updating LOOPS ***
-There are 545 candidates
+There are 453 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -173,7 +173,7 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 154 on total of 544
+ updated 88 on total of 452
 *** End Updating LOOPS ***
 There are 390 candidates
 Updating Cross Intersections
@@ -391,33 +391,34 @@ Step propagate
 Step propagate
 Step propagate
 getting Edge Mesh
-SPLIT ITERATION 125
+SPLIT ITERATION 126
 SPLIT ITERATION 49
-SPLIT ITERATION 8
+SPLIT ITERATION 7
 Splitting Internal
 Setted crossing faces 423
-Setted crossing faces 671
-Setted crossing faces 766
+Setted crossing faces 673
 Setted crossing faces 768
+Setted crossing faces 769
 Splitting The rest
 PERFORMIN SPLIT STEP 
-Setted crossing faces 768
-Added splitting operations 765
+Setted crossing faces 769
+Added splitting operations 767
 PERFORMIN SPLIT STEP 
-Setted crossing faces 1543
-Added splitting operations 723
+Setted crossing faces 1547
+Added splitting operations 718
 PERFORMIN SPLIT STEP 
-Setted crossing faces 1912
-Added splitting operations 169
+Setted crossing faces 1928
+Added splitting operations 171
 PERFORMIN SPLIT STEP 
-Setted crossing faces 1994
-Added splitting operations 11
+Setted crossing faces 1995
+Added splitting operations 13
 PERFORMIN SPLIT STEP 
-Setted crossing faces 2002
+Setted crossing faces 2005
 Added splitting operations 0
 SPLITTING OPS TERMINATED
 Splitting Step End
 Updating Path
 Retrieving Sequences
 Done
-*** TIME :2.17239 ***
+There are 300 partitions
+*** TIME :2.45073 ***

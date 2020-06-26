@@ -1,23 +1,23 @@
 Initializing graph ... Subdivision 3 Edge distance 0.154864
 Sampled in Average 3.0374 samples per Edge 
-done. Sampled 503576 edge-nodes. Time 142677
-Setting connections ... done. Time 947873
-Initializing points-nodes mapping ... done. Time 99016
+done. Sampled 503576 edge-nodes. Time 155855
+Setting connections ... done. Time 949867
+Initializing points-nodes mapping ... done. Time 76132
 Adding singularity nodes ... done. Added 0 singularity nodes. Time 0
 Adding sink nodes ...done. Time 6
 Deleting unconnected nodes ...Deleting Unreferenced Step
 Deleting Unreferenced Step
 Deleting Unreferenced Step
 Deleting Unreferenced Step
-done. Deleted 256492 nodes. Time 555554
-Re-initializing points-nodes mapping ... done. Time 108653
-Initialize  opposite nodes... done. Time 35162
+done. Deleted 256492 nodes. Time 546186
+Re-initializing points-nodes mapping ... done. Time 139624
+Initialize  opposite nodes... done. Time 34816
 Initializing Intersections Table
 Initializing Vert Intersection Table
-Time 293620
+Time 302297
 Initializing face node table
 done
-Time 19355
+Time 23566
 done
 Initializing Graph
 There are 14 guard pos features 
@@ -35,8 +35,8 @@ Tracing 4 side 1
 Tracing 5 side 0
 Tracing 5 side 1
 THERE ARE 0 UNSAMPLED FEATURES
-TIME 0.013259 FOR TRACING
-TIME 0.006642 FOR CHECKING
+TIME 0.014058 FOR TRACING
+TIME 0.006565 FOR CHECKING
 Added loop
 Updating Step
 Retraced 0 loops
@@ -1107,17 +1107,18 @@ PERFORMIN SPLIT STEP
 Setted crossing faces 9840
 Added splitting operations 9586
 PERFORMIN SPLIT STEP 
-Setted crossing faces 11487
+Setted crossing faces 11524
 Added splitting operations 833
 PERFORMIN SPLIT STEP 
-Setted crossing faces 11679
+Setted crossing faces 11657
 Added splitting operations 4
 PERFORMIN SPLIT STEP 
-Setted crossing faces 11648
+Setted crossing faces 11649
 Added splitting operations 0
 SPLITTING OPS TERMINATED
 Splitting Step End
 Updating Path
 Retrieving Sequences
 Done
-*** TIME :26.537 ***
+There are 1261 partitions
+*** TIME :28.1483 ***

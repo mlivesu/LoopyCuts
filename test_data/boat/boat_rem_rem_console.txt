@@ -1,18 +1,18 @@
 Initializing graph ... Subdivision 3 Edge distance 0.330544
 Sampled in Average 3.04941 samples per Edge 
-done. Sampled 1736552 edge-nodes. Time 439165
-Setting connections ... done. Time 3053421
-Initializing points-nodes mapping ... done. Time 301198
-Adding singularity nodes ... done. Added 0 singularity nodes. Time 0
+done. Sampled 1736552 edge-nodes. Time 479467
+Setting connections ... done. Time 3330024
+Initializing points-nodes mapping ... done. Time 370426
+Adding singularity nodes ... done. Added 0 singularity nodes. Time 1
 Adding sink nodes ...done. Time 6
-Re-initializing points-nodes mapping ... done. Time 420412
-Initialize  opposite nodes... done. Time 149583
+Re-initializing points-nodes mapping ... done. Time 505080
+Initialize  opposite nodes... done. Time 177085
 Initializing Intersections Table
 Initializing Vert Intersection Table
-Time 2262842
+Time 2480208
 Initializing face node table
 done
-Time 83083
+Time 88844
 done
 Initializing Graph
 There are 11 guard pos features 
@@ -62,18 +62,8 @@ WARNING ALL NON CLOSED LOOPS
 Tracing 17 side 0
 Tracing 17 side 1
 THERE ARE 4 UNSAMPLED FEATURES
-TIME 20.2519 FOR TRACING
-TIME 0.078615 FOR CHECKING
-Added loop
-Updating Step
-Retraced 0 loops
-Added loop
-Updating Step
-WARNING Non Sampled feature 
-WARNING ALL NON CLOSED LOOPS 
-WARNING Non Sampled feature 
-WARNING ALL NON CLOSED LOOPS 
-Retraced 4 loops
+TIME 23.2307 FOR TRACING
+TIME 0.093035 FOR CHECKING
 Added loop
 Updating Step
 WARNING Non Sampled feature 
@@ -83,16 +73,24 @@ WARNING ALL NON CLOSED LOOPS
 Retraced 2 loops
 Added loop
 Updating Step
+Retraced 0 loops
+Added loop
+Updating Step
+WARNING Non Sampled feature 
+WARNING ALL NON CLOSED LOOPS 
+Retraced 3 loops
+Added loop
+Updating Step
+Retraced 0 loops
+Added loop
+Updating Step
 Retraced 2 loops
-Added loop
-Updating Step
-Retraced 0 loops
-Added loop
-Updating Step
-Retraced 0 loops
 Added loop
 Updating Step
 Retraced 1 loops
+Added loop
+Updating Step
+Retraced 0 loops
 Added loop
 Updating Step
 Retraced 0 loops
@@ -280,7 +278,7 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 1 on total of 519
+ updated 2 on total of 519
 *** End Updating LOOPS ***
 There are 519 candidates
 Updating Cross Intersections
@@ -1120,32 +1118,34 @@ done
 Step propagate
 Step propagate
 Step propagate
+Step propagate
 getting Edge Mesh
-SPLIT ITERATION 941
+SPLIT ITERATION 939
 SPLIT ITERATION 12
 Splitting Internal
-Setted crossing faces 21969
-Setted crossing faces 23726
-Setted crossing faces 23746
+Setted crossing faces 21950
+Setted crossing faces 23703
+Setted crossing faces 23723
 Splitting The rest
 PERFORMIN SPLIT STEP 
-Setted crossing faces 23746
-Added splitting operations 23485
+Setted crossing faces 23723
+Added splitting operations 23463
 PERFORMIN SPLIT STEP 
-Setted crossing faces 26438
-Added splitting operations 1561
+Setted crossing faces 26435
+Added splitting operations 1560
 PERFORMIN SPLIT STEP 
-Setted crossing faces 26748
+Setted crossing faces 26723
 Added splitting operations 7
 PERFORMIN SPLIT STEP 
-Setted crossing faces 26784
+Setted crossing faces 26757
 Added splitting operations 0
 SPLITTING OPS TERMINATED
 Splitting Step End
 Updating Path
 Retrieving Sequences
 Done
-There are 1695 partitions
+There are 1693 partitions
 WARNING: bad crossing MUST BE SOLVED 
 WARNING: bad crossing MUST BE SOLVED 
-*** TIME :251.431 ***
+WARNING: bad crossing MUST BE SOLVED 
+*** TIME :291.305 ***

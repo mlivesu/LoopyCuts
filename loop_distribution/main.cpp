@@ -51,118 +51,8 @@ extern std::string pathF;
 extern std::string pathS;
 extern bool has_features;
 extern bool batch_process;
-
-//int main(int argc, char *argv[])
-//{
-//    QApplication app(argc, argv);
-
-//    QWindow dummy;
-//    QString def_string = QString("GLOBAL fontscaling=%1").arg((int)dummy.devicePixelRatio());
-//    TwDefine(def_string.toStdString().c_str());
-//    printf("%s\n",qPrintable(def_string));
-//    fflush(stdout);
-
-//    // Set functions to handle string copy
-//    TwCopyCDStringToClientFunc(CopyCDStringToClient);
-//    TwCopyStdStringToClientFunc(CopyStdStringToClient);
-
-//    if( !TwInit(TW_OPENGL, NULL) )
-//    {
-//        fprintf(stderr, "AntTweakBar initialization failed: %s\n", TwGetLastError());
-//        return 1;
-//    }
-
-//    //PARAMETERS CHECK
-//    if(argc<3)
-//    {
-//        printf("error: pass mesh and field as parameter \n");
-//        fflush(stdout);
-//        exit(0);
-//    }
-
-//    //MESH LOAD
-//    pathM=std::string(argv[1]);
-//    QString pathMQ=QString(pathM.c_str());
-//    QFileInfo f_infoM(pathMQ);
-//    if (!f_infoM.exists())
-//    {
-//        printf("error: mesh fileneme wrong\n");
-//        fflush(stdout);
-//        exit(0);
-//    }
-////    printf("Loading the mesh \n");
-////    bool loadedMesh=mesh.LoadFromFile(pathM);
-////    mesh.UpdateAttributes();
-////    if (!loadedMesh)
-////    {
-////        std::cout<<"*** ERROR LOADING MESH ***"<<std::endl;
-////        exit(0);
-////    }
-////    std::cout<<"Loaded "<<mesh.fn<<" faces and "<<mesh.vn<<" edges"<<std::endl;
-
-//     //FIELD LOAD
-//    pathF=std::string(argv[2]);
-//    //has_field=true;
-//    QString pathFQ=QString(pathF.c_str());
-//    QFileInfo f_infoF(pathFQ);
-//    if (!f_infoF.exists())
-//    {
-//        printf("error: field fileneme wrong\n");
-//        fflush(stdout);
-//        exit(0);
-//    }
-////    std::cout<<"Loading field"<<std::endl;
-////    bool loadedField=mesh.LoadField(pathF);
-////    if (!loadedField){
-////        std::cout<<"*** ERROR LOADING FIELD ***"<<std::endl;
-////        exit(0);
-////    }
-
-//    if (argc>=4)
-//    {
-//        printf("sharp features initialized \n");
-//        fflush(stdout);
-//        pathS=std::string(argv[3]);
-//        QString pathSQ=QString(pathS.c_str());
-//        QFileInfo f_infoF(pathSQ);
-//        if (!f_infoF.exists())
-//        {
-//            printf("error: feature fileneme wrong\n");
-//            fflush(stdout);
-//            exit(0);
-//        }
-//        has_features=true;
-
-//    }
-//    batch_process=false;
-//    if (argc>=4)
-//    {
-//        //then check if it mush batch process
-//        std::string pathComm;
-//        pathComm=std::string(argv[3]);
-//        if (pathComm==std::string("batch"))batch_process=true;
-//        if (argc>=5)
-//        {
-//        pathComm=std::string(argv[4]);
-//        if (pathComm==std::string("batch"))batch_process=true;
-//        }
-//        if (batch_process)
-//        {std::cout<<"*** BATCH PROCESSING ***"<<std::endl;}
-//    }
-
-//    //    if (has_field)
-//    //    {
-
-////    if (IsQuad)
-////    {
-////        has_field=true;
-////        vcg::tri::CrossField<CMesh>::OrientDirectionFaceCoherently(mesh);
-////        vcg::tri::CrossField<CMesh>::UpdateSingularByCross(mesh);
-////    }
-//    GLWidget window;
-//    window.show();
-//    return app.exec();
-//}
+extern bool delete_unref;
+extern bool add_sing_nodes;
 
 int main(int argc, char *argv[])
 {
@@ -254,7 +144,22 @@ int main(int argc, char *argv[])
             std::cout<<"* DATASET "<<pathM.c_str()<<" *"<<std::endl;
         }
     }
-
+    if (argc>=4)
+    {
+       delete_unref=(bool)atoi(argv[3]);
+       if (delete_unref)
+          std::cout<<"must delete unref nodes"<<std::endl;
+       else
+          std::cout<<"keep unref nodes"<<std::endl;
+    }
+    if (argc>=5)
+    {
+       add_sing_nodes=(bool)atoi(argv[4]);
+       if (add_sing_nodes)
+          std::cout<<"must add sing nodes"<<std::endl;
+       else
+          std::cout<<"no sing nodes"<<std::endl;
+    }
     GLWidget window;
     window.show();
     return app.exec();

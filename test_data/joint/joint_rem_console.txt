@@ -1,22 +1,22 @@
 Initializing graph ... Subdivision 3 Edge distance 0.0128816
 Sampled in Average 3.08506 samples per Edge 
-done. Sampled 324968 edge-nodes. Time 91298
-Setting connections ... done. Time 668656
-Initializing points-nodes mapping ... done. Time 51290
-Adding singularity nodes ... done. Added 0 singularity nodes. Time 2
-Adding sink nodes ...done. Time 2
+done. Sampled 324968 edge-nodes. Time 97203
+Setting connections ... done. Time 651541
+Initializing points-nodes mapping ... done. Time 48599
+Adding singularity nodes ... done. Added 0 singularity nodes. Time 0
+Adding sink nodes ...done. Time 6
 Deleting unconnected nodes ...Deleting Unreferenced Step
 Deleting Unreferenced Step
 Deleting Unreferenced Step
-done. Deleted 165798 nodes. Time 300702
-Re-initializing points-nodes mapping ... done. Time 89606
-Initialize  opposite nodes... done. Time 26920
+done. Deleted 165798 nodes. Time 290129
+Re-initializing points-nodes mapping ... done. Time 90901
+Initialize  opposite nodes... done. Time 25000
 Initializing Intersections Table
 Initializing Vert Intersection Table
-Time 190608
+Time 182829
 Initializing face node table
 done
-Time 12514
+Time 12047
 done
 Initializing Graph
 There are 18 guard pos features 
@@ -30,8 +30,8 @@ Tracing 2 side 1
 Tracing 3 side 0
 Tracing 3 side 1
 THERE ARE 0 UNSAMPLED FEATURES
-TIME 0.018075 FOR TRACING
-TIME 0.005279 FOR CHECKING
+TIME 0.016681 FOR TRACING
+TIME 0.004895 FOR CHECKING
 Added loop
 Updating Step
 Retraced 0 loops
@@ -175,14 +175,14 @@ Updating step
 *** UPDATING LOOPS ***
  updated 1057 on total of 1057
 *** End Updating LOOPS ***
-There are 1011 candidates
+There are 1010 candidates
 *** Update distances considering new added loop ***
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 7 on total of 1010
+ updated 7 on total of 1009
 *** End Updating LOOPS ***
-There are 1009 candidates
+There are 1008 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -196,9 +196,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 14 on total of 1008
+ updated 14 on total of 1007
 *** End Updating LOOPS ***
-There are 1000 candidates
+There are 999 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -212,9 +212,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 11 on total of 999
+ updated 11 on total of 998
 *** End Updating LOOPS ***
-There are 996 candidates
+There are 995 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -228,23 +228,7 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 4 on total of 995
-*** End Updating LOOPS ***
-There are 991 candidates
-Updating Cross Intersections
-Check Sharp Loop Intersections
-done
-Updating Intersection needs
-done
-Updating Distances
-done
-Updating Intersections
-done
-*** Update distances considering new added loop ***
-*** Done ***
-Updating step
-*** UPDATING LOOPS ***
- updated 3 on total of 990
+ updated 4 on total of 994
 *** End Updating LOOPS ***
 There are 990 candidates
 Updating Cross Intersections
@@ -260,9 +244,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 22 on total of 989
+ updated 3 on total of 989
 *** End Updating LOOPS ***
-There are 986 candidates
+There are 989 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -276,9 +260,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 3 on total of 985
+ updated 22 on total of 988
 *** End Updating LOOPS ***
-There are 984 candidates
+There are 985 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -292,9 +276,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 18 on total of 983
+ updated 3 on total of 984
 *** End Updating LOOPS ***
-There are 979 candidates
+There are 983 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -308,9 +292,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 17 on total of 978
+ updated 18 on total of 982
 *** End Updating LOOPS ***
-There are 975 candidates
+There are 978 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -324,9 +308,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 20 on total of 974
+ updated 17 on total of 977
 *** End Updating LOOPS ***
-There are 972 candidates
+There are 974 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -340,9 +324,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 19 on total of 971
+ updated 20 on total of 973
 *** End Updating LOOPS ***
-There are 967 candidates
+There are 971 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -356,9 +340,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 10 on total of 966
+ updated 19 on total of 970
 *** End Updating LOOPS ***
-There are 965 candidates
+There are 966 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -372,9 +356,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 2 on total of 964
+ updated 10 on total of 965
 *** End Updating LOOPS ***
-There are 963 candidates
+There are 964 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -388,9 +372,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 5 on total of 962
+ updated 2 on total of 963
 *** End Updating LOOPS ***
-There are 959 candidates
+There are 962 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -404,9 +388,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 11 on total of 958
+ updated 5 on total of 961
 *** End Updating LOOPS ***
-There are 954 candidates
+There are 958 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -420,9 +404,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 9 on total of 953
+ updated 11 on total of 957
 *** End Updating LOOPS ***
-There are 947 candidates
+There are 953 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -436,9 +420,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 8 on total of 946
+ updated 9 on total of 952
 *** End Updating LOOPS ***
-There are 945 candidates
+There are 946 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -452,9 +436,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 1 on total of 944
+ updated 8 on total of 945
 *** End Updating LOOPS ***
-There are 943 candidates
+There are 944 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -468,9 +452,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 20 on total of 942
+ updated 1 on total of 943
 *** End Updating LOOPS ***
-There are 939 candidates
+There are 942 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -484,7 +468,7 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 0 on total of 938
+ updated 20 on total of 941
 *** End Updating LOOPS ***
 There are 938 candidates
 Updating Cross Intersections
@@ -500,7 +484,7 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 1 on total of 937
+ updated 0 on total of 937
 *** End Updating LOOPS ***
 There are 937 candidates
 Updating Cross Intersections
@@ -516,9 +500,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 50 on total of 936
+ updated 1 on total of 936
 *** End Updating LOOPS ***
-There are 935 candidates
+There are 936 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -532,9 +516,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 3 on total of 934
+ updated 50 on total of 935
 *** End Updating LOOPS ***
-There are 933 candidates
+There are 934 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -548,9 +532,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 10 on total of 932
+ updated 3 on total of 933
 *** End Updating LOOPS ***
-There are 928 candidates
+There are 932 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -564,9 +548,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 22 on total of 927
+ updated 10 on total of 931
 *** End Updating LOOPS ***
-There are 922 candidates
+There are 927 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -580,9 +564,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 20 on total of 921
+ updated 22 on total of 926
 *** End Updating LOOPS ***
-There are 917 candidates
+There are 921 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -596,9 +580,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 13 on total of 916
+ updated 20 on total of 920
 *** End Updating LOOPS ***
-There are 912 candidates
+There are 916 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -612,9 +596,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 22 on total of 911
+ updated 13 on total of 915
 *** End Updating LOOPS ***
-There are 908 candidates
+There are 911 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -628,9 +612,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 19 on total of 907
+ updated 22 on total of 910
 *** End Updating LOOPS ***
-There are 906 candidates
+There are 907 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -644,9 +628,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 18 on total of 905
+ updated 19 on total of 906
 *** End Updating LOOPS ***
-There are 902 candidates
+There are 905 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -660,9 +644,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 8 on total of 901
+ updated 18 on total of 904
 *** End Updating LOOPS ***
-There are 899 candidates
+There are 901 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -676,9 +660,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 16 on total of 898
+ updated 8 on total of 900
 *** End Updating LOOPS ***
-There are 895 candidates
+There are 898 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -692,9 +676,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 20 on total of 894
+ updated 16 on total of 897
 *** End Updating LOOPS ***
-There are 890 candidates
+There are 894 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -708,9 +692,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 4 on total of 889
+ updated 20 on total of 893
 *** End Updating LOOPS ***
-There are 887 candidates
+There are 889 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -724,9 +708,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 39 on total of 886
+ updated 4 on total of 888
 *** End Updating LOOPS ***
-There are 879 candidates
+There are 886 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -740,9 +724,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 37 on total of 878
+ updated 39 on total of 885
 *** End Updating LOOPS ***
-There are 871 candidates
+There are 878 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -756,9 +740,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 17 on total of 870
+ updated 37 on total of 877
 *** End Updating LOOPS ***
-There are 868 candidates
+There are 870 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -772,9 +756,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 19 on total of 867
+ updated 17 on total of 869
 *** End Updating LOOPS ***
-There are 863 candidates
+There are 867 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -788,9 +772,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 39 on total of 862
+ updated 19 on total of 866
 *** End Updating LOOPS ***
-There are 858 candidates
+There are 862 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -804,9 +788,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 17 on total of 857
+ updated 39 on total of 861
 *** End Updating LOOPS ***
-There are 852 candidates
+There are 857 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -820,9 +804,9 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 5 on total of 851
+ updated 17 on total of 856
 *** End Updating LOOPS ***
-There are 850 candidates
+There are 851 candidates
 Updating Cross Intersections
 Check Sharp Loop Intersections
 done
@@ -836,7 +820,23 @@ done
 *** Done ***
 Updating step
 *** UPDATING LOOPS ***
- updated 34 on total of 849
+ updated 5 on total of 850
+*** End Updating LOOPS ***
+There are 849 candidates
+Updating Cross Intersections
+Check Sharp Loop Intersections
+done
+Updating Intersection needs
+done
+Updating Distances
+done
+Updating Intersections
+done
+*** Update distances considering new added loop ***
+*** Done ***
+Updating step
+*** UPDATING LOOPS ***
+ updated 33 on total of 848
 *** End Updating LOOPS ***
 There are 820 candidates
 Updating Cross Intersections
@@ -1165,28 +1165,29 @@ Step propagate
 Step propagate
 Step propagate
 getting Edge Mesh
-SPLIT ITERATION 634
+SPLIT ITERATION 635
 SPLIT ITERATION 4
 Splitting Internal
 Setted crossing faces 6279
-Setted crossing faces 7451
-Setted crossing faces 7458
+Setted crossing faces 7453
+Setted crossing faces 7459
 Splitting The rest
 PERFORMIN SPLIT STEP 
-Setted crossing faces 7458
+Setted crossing faces 7459
 Added splitting operations 7254
 PERFORMIN SPLIT STEP 
-Setted crossing faces 9083
-Added splitting operations 838
+Setted crossing faces 9112
+Added splitting operations 839
 PERFORMIN SPLIT STEP 
-Setted crossing faces 9284
+Setted crossing faces 9275
 Added splitting operations 7
 PERFORMIN SPLIT STEP 
-Setted crossing faces 9285
+Setted crossing faces 9283
 Added splitting operations 0
 SPLITTING OPS TERMINATED
 Splitting Step End
 Updating Path
 Retrieving Sequences
 Done
-*** TIME :16.2512 ***
+There are 1156 partitions
+*** TIME :16.6459 ***

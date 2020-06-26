@@ -1,24 +1,24 @@
 Initializing graph ... Subdivision 3 Edge distance 0.0733329
 Sampled in Average 3.56724 samples per Edge 
-done. Sampled 199480 edge-nodes. Time 53303
-Setting connections ... done. Time 507961
-Initializing points-nodes mapping ... done. Time 24956
-Adding singularity nodes ... done. Added 0 singularity nodes. Time 0
-Adding sink nodes ...done. Time 0
+done. Sampled 199480 edge-nodes. Time 54301
+Setting connections ... done. Time 483288
+Initializing points-nodes mapping ... done. Time 26114
+Adding singularity nodes ... done. Added 0 singularity nodes. Time 1
+Adding sink nodes ...done. Time 4
 Deleting unconnected nodes ...Deleting Unreferenced Step
 Deleting Unreferenced Step
 Deleting Unreferenced Step
 Deleting Unreferenced Step
 Deleting Unreferenced Step
-done. Deleted 100764 nodes. Time 242838
-Re-initializing points-nodes mapping ... done. Time 35682
-Initialize  opposite nodes... done. Time 15188
+done. Deleted 100764 nodes. Time 212537
+Re-initializing points-nodes mapping ... done. Time 41177
+Initialize  opposite nodes... done. Time 13956
 Initializing Intersections Table
 Initializing Vert Intersection Table
-Time 102875
+Time 98070
 Initializing face node table
 done
-Time 6768
+Time 7431
 done
 Initializing Graph
 There are 0 guard pos features 
@@ -983,27 +983,28 @@ SPLIT ITERATION 98
 Splitting Internal
 Setted crossing faces 4065
 Setted crossing faces 5619
-Setted crossing faces 5800
+Setted crossing faces 5799
 Setted crossing faces 5817
 Splitting The rest
 PERFORMIN SPLIT STEP 
 Setted crossing faces 5817
 Added splitting operations 5796
 PERFORMIN SPLIT STEP 
-Setted crossing faces 9295
+Setted crossing faces 9292
 Added splitting operations 2528
 PERFORMIN SPLIT STEP 
-Setted crossing faces 10204
+Setted crossing faces 10203
 Added splitting operations 246
 PERFORMIN SPLIT STEP 
-Setted crossing faces 10256
+Setted crossing faces 10255
 Added splitting operations 5
 PERFORMIN SPLIT STEP 
-Setted crossing faces 10311
+Setted crossing faces 10309
 Added splitting operations 0
 SPLITTING OPS TERMINATED
 Splitting Step End
 Updating Path
 Retrieving Sequences
 Done
-*** TIME :59.7474 ***
+There are 1426 partitions
+*** TIME :60.4478 ***

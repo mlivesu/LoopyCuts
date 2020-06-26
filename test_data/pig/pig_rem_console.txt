@@ -1,24 +1,24 @@
 Initializing graph ... Subdivision 3 Edge distance 0.00747117
 Sampled in Average 4.77339 samples per Edge 
-done. Sampled 362472 edge-nodes. Time 111059
-Setting connections ... done. Time 1242234
-Initializing points-nodes mapping ... done. Time 52681
-Adding singularity nodes ... done. Added 0 singularity nodes. Time 2
-Adding sink nodes ...done. Time 1
+done. Sampled 362472 edge-nodes. Time 93105
+Setting connections ... done. Time 1174015
+Initializing points-nodes mapping ... done. Time 50573
+Adding singularity nodes ... done. Added 0 singularity nodes. Time 1
+Adding sink nodes ...done. Time 6
 Deleting unconnected nodes ...Deleting Unreferenced Step
 Deleting Unreferenced Step
 Deleting Unreferenced Step
 Deleting Unreferenced Step
 Deleting Unreferenced Step
-done. Deleted 162754 nodes. Time 550249
-Re-initializing points-nodes mapping ... done. Time 87666
-Initialize  opposite nodes... done. Time 34851
+done. Deleted 162754 nodes. Time 538019
+Re-initializing points-nodes mapping ... done. Time 83265
+Initialize  opposite nodes... done. Time 37429
 Initializing Intersections Table
 Initializing Vert Intersection Table
-Time 237390
+Time 229377
 Initializing face node table
 done
-Time 10498
+Time 11968
 done
 Initializing Graph
 There are 0 guard pos features 
@@ -1055,16 +1055,16 @@ PERFORMIN SPLIT STEP
 Setted crossing faces 7144
 Added splitting operations 7053
 PERFORMIN SPLIT STEP 
-Setted crossing faces 11794
+Setted crossing faces 11797
 Added splitting operations 4127
 PERFORMIN SPLIT STEP 
-Setted crossing faces 13553
+Setted crossing faces 13552
 Added splitting operations 676
 PERFORMIN SPLIT STEP 
-Setted crossing faces 13804
+Setted crossing faces 13811
 Added splitting operations 30
 PERFORMIN SPLIT STEP 
-Setted crossing faces 13783
+Setted crossing faces 13788
 Added splitting operations 1
 PERFORMIN SPLIT STEP 
 Setted crossing faces 13812
@@ -1074,4 +1074,5 @@ Splitting Step End
 Updating Path
 Retrieving Sequences
 Done
-*** TIME :67.7913 ***
+There are 1488 partitions
+*** TIME :70.6676 ***
