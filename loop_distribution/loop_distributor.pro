@@ -8,11 +8,28 @@ HEADERS       = glwidget.h \
                 loop_stats.h \
                 loop_mesher.h \
                 loop_splitter.h \
+                smooth_loops_mesh.h \
                 tracing_field/inter_cross_validator.h \
                 tracing_field/loop_finder.h \
                 tracing_field/sharp_feature_sampler.h\
                 tracing_field/sharp_feature_manager.h\
                 tracing_field/loop_common_functions.h\
+                tracing_field/triangle_mesh_functions.h\
+                tracing_field/conflict_finder.h\
+                tracing_field/stats_collector.h\
+                tracing_field/artifact_removal.h\
+                tracing_field/anisotropic_geodesic.h\
+                tracing_field/graph/sink_geodesic_node.h\
+                tracing_field/graph/singulatity_geodesic_node.h\
+                tracing_field/graph/edge_geodesic_node.h\
+                tracing_field/graph/base_geodesic_node.h\
+                tracing_field/graph/anisotropic_graph.h\
+                tracing_field/separatrix_parametrizer.h\
+                tracing_field/graph/path_geodesic_node.h\
+                tracing_field/graph/neigh_info.h\
+                tracing_field/remesh/edge_splitter.h\
+                tracing_field/remesh/edge_mesh_type.h\
+
 
 SOURCES       = glwidget.cpp \
                 main.cpp
