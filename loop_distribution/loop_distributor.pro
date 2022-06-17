@@ -59,17 +59,17 @@ CONFIG(release, debug|release){
 }
 
 #Final release optimization flag
-FINAL_RELEASE {
-    unix:!macx{
-        QMAKE_CXXFLAGS_RELEASE -= -g -O2
-        QMAKE_CXXFLAGS += -O3 -DNDEBUG
-    }
-}
+#FINAL_RELEASE {
+#    unix:!macx{
+#        QMAKE_CXXFLAGS_RELEASE -= -g -O2
+#        QMAKE_CXXFLAGS += -O3 -DNDEBUG
+#    }
+#}
 
-macx {
-    QMAKE_MACOSX_DEPLOYMENT_TARGET = 10.13
-    QMAKE_MAC_SDK = macosx10.13
-}
+#macx {
+#    QMAKE_MACOSX_DEPLOYMENT_TARGET = 10.13
+#    QMAKE_MAC_SDK = macosx10.13
+#}
 
 ############################ INCLUDES ############################
 
